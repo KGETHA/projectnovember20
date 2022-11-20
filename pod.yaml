@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: iammithran/newimage:latest
+          image: cloudgee/k8i:latest
           imagePullPolicy: Always
